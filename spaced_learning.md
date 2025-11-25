@@ -1,2 +1,2 @@
-ALGERBRAIC EXPRESSIONS: review due
-QUADRATICS: learning
+- ALGERBRAIC EXPRESSIONS: review due
+- QUADRATICS: learning
