@@ -1,2 +1,2 @@
-- ALGERBRAIC EXPRESSIONS: review due
-- QUADRATICS: learning
+- QUADRATICS: 1 week
+- equations and inequalities: learning
